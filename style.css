@@ -11,7 +11,7 @@
 .container {
   position: relative;
   width: 100%;
-  min-height: 700px;
+  min-height: 550px;
 }
 .container .contents-wraper {
   width: 70%;
@@ -66,7 +66,7 @@
 .contents-wraper .indicators .dot {
   margin: 0px 3px;
   transition: background-color 0.5s ease;
-  height: 90px;
+  height: 60px;
   display: flex;
   justify-content: end;
   align-items: end;
