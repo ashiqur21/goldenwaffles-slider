@@ -200,8 +200,10 @@
   }
 
   .contents-wraper .indicators {
-    width: 100%;
+    min-width: 100%;
     overflow-x: scroll;
+    gap: 40px;
+    padding-bottom: 20px;
   }
   .testRow .testItem {
     height: 100%;
