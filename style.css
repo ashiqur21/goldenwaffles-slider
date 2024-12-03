@@ -141,7 +141,7 @@
   transform: translate(-50%, -50%);
 }
 .next-prev-button button {
-  background-color: yellow;
+  background-color: #00ced1;
   outline: none;
   border: none;
   font-size: 14px;
@@ -163,7 +163,8 @@
   border-radius: 40px;
 }
 .next-prev-button button:hover {
-  background-color: orangered;
+  background-color: black;
+  color: white;
   transition: all 0.3s ease-out;
 }
 .testimonial-content {
