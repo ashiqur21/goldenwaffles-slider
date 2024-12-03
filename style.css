@@ -76,7 +76,7 @@
   transition: transform 0.3s ease;
   z-index: 9 !important;
 }
-.contents-wraper .indicators .active::after {
+.contents-wraper .indicators .active::before {
   content: "";
   position: absolute;
   top: -16px;
